@@ -15,3 +15,5 @@ Building a full-stack project by ourselves and push it on to the Heroku cloud!
 New tech stack and great teamwork!
 ## What's next for EATWHAT
 Mobile version, UI customization, and more useful meal ordering features!
+## check out our demo video:
+https://youtu.be/8d69dPfNg1o
